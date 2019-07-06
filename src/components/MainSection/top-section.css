@@ -1,0 +1,20 @@
+.TopSectionDev{
+height: 150px;
+  background-color: white;
+      text-align: center;
+          padding-top: 50px;
+
+}
+.TopSectionTitle{
+        font-family: 'Poppins', sans-serif;
+        font-style:bold;
+    font-size: 3rem;
+    margin: auto;
+}
+.underline{
+    width: 50%;
+   border-top: 3px solid #e9698a;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

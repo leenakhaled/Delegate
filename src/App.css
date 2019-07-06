@@ -31,3 +31,16 @@
     transform: rotate(360deg);
   }
 }
+.Header{
+min-height: 100px;
+  background-color: #232323;
+  background-image:'headerBackground';
+}
+
+.Footer{
+  background-color: #465052;
+  min-height: 200px;
+}
+.MainScreen{
+  padding: 20px;
+}
