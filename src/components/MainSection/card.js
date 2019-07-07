@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './card.css';
 import { addToFavorite, removeFromFavorite } from "../../actions/usersActions.js";
 import { connect } from "react-redux";
-import Images from './team9.jpg';
+import Images from './images/team.jpg';
 
 class Card extends Component {
     constructor(props) {

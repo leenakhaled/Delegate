@@ -1,4 +1,3 @@
-import '../../assets/bootstrap/css/bootstrap.min.css';
 import React, { Component } from 'react';
 import headerBackground from './images/1.jpg'
 import '../../assets/bootstrap/css/bootstrap.min.css';
@@ -57,7 +56,7 @@ class Header extends Component {
                     <div class="inner-bg">
                         <div class="container">
 
-                            <div class="row">
+                            <div class="row animDiv">
                                 <div class="col-md-8 offset-md-2 text">
                                     <h1 class="wow fadeInLeftBig">Users Website  </h1>
                                     <div class="description wow fadeInUp">
