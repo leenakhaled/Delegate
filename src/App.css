@@ -44,3 +44,6 @@ min-height: 100px;
 .MainScreen{
   padding: 20px;
 }
+a{
+  border-bottom: none !important ;
+}
