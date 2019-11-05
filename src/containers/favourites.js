@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Footer from '../components/footer/footer'
-import MainSection from '../components/mainSection/mainSection.js'
+import MainSection from '../components/MainSection/mainSection.js'
 
 class Favourites extends Component {
   render() {

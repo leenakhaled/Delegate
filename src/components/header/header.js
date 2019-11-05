@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import headerBackground from './images/1.jpg'
 import '../../assets/bootstrap/css/bootstrap.min.css';
 import '../../assets/font-awesome/css/font-awesome.min.css';
-import './header.css';
+import './Header.css';
 import { Link } from "react-router-dom";
 
 const headerStyle = {

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './mainSection.css';
+import './mainsection.css';
 import TopSection from './topSection'
 import ListSection from './listSection';
 import { fetchUsers } from "../../actions/usersActions.js";
